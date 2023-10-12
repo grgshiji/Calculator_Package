@@ -2,8 +2,8 @@
   "name": "todoInput",
   "type": "ui-elements",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/grgshiji/Calculator_Package.git",
+    "ssh": "git@github.com:grgshiji/Calculator_Package.git",
     "branch": "block_todoInput"
   },
   "language": "js",

@@ -2,8 +2,8 @@
   "name": "Calculator_Package",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/Calculator_Package.git",
+    "ssh": "git@github.com:grgshiji/Calculator_Package.git",
     "branch": "block_Calculator_Package"
   },
   "dependencies": {
