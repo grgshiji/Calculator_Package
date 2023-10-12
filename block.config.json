@@ -1,0 +1,22 @@
+{
+  "name": "todoItem",
+  "type": "ui-elements",
+  "source": {
+    "https": "https://github.com/grgshiji/Calculator_Package.git",
+    "ssh": "git@github.com:grgshiji/Calculator_Package.git",
+    "branch": "block_todoItem"
+  },
+  "language": "js",
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack",
+  "postPull": "npm i",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "VJUiI0j8788fMr0qXmIzf",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "Uu1K1n7hIJcH5ClEoGJ9o"
+  ]
+}
